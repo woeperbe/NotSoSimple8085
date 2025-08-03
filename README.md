@@ -18,6 +18,19 @@ The assembler i use to compile the asm files is ASMX 2.0  available at https://w
 <img width="2441" height="1704" alt="Screenshot 2025-08-03 075859" src="https://github.com/user-attachments/assets/96895ca6-4d7f-4914-bfae-1ee7afd97078" />
 
 
+The EPROM Layout i use is as follow
+
+			
+	EPROM SPACE 		
+			
+0000	2FFF		BASIC INTERPRETER
+3000	30FF		FIG-FORTH LOADER
+3100	5FFF		FIG-FORTH
+6000	7FFF		MONITOR
+
+
+
+
 
 
 <img width="688" height="692" alt="image" src="https://github.com/user-attachments/assets/ffa6785f-8d12-4707-9790-85751cf9a932" />
