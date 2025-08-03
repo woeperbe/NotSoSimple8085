@@ -43,3 +43,8 @@ The EPROM Layout i use is as follow
 
 
 
+If there are some copyrights or wathever i really don't care about it !
+i found everything on the internet for FREE !
+
+
+
