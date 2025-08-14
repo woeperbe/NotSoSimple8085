@@ -13,9 +13,7 @@ https://www.arduino.cc/en/software/
 
 The assembler i use to compile the asm files is ASMX 2.0  available at https://www.retrotechnology.com/memship/asmx.html
 
-
-
-<img width="2441" height="1704" alt="Screenshot 2025-08-03 075859" src="https://github.com/user-attachments/assets/96895ca6-4d7f-4914-bfae-1ee7afd97078" />
+![WhatsApp Image 2025-08-14 at 17 45 14_44ab0a71](https://github.com/user-attachments/assets/972310ff-5b2c-4795-985a-4b49a625a096)
 
 
 The EPROM Layout i use is as follow
@@ -32,14 +30,13 @@ The EPROM Layout i use is as follow
 6000	7FFF		MONITOR
 
 
+![WhatsApp Image 2025-08-14 at 13 00 33_66d2199a](https://github.com/user-attachments/assets/79fc8dae-f72e-4ccc-8bc6-3f35c1d37a2b)
 
 
-<img width="688" height="692" alt="image" src="https://github.com/user-attachments/assets/ffa6785f-8d12-4707-9790-85751cf9a932" />
+![WhatsApp Image 2025-08-14 at 13 00 32_babeecaa](https://github.com/user-attachments/assets/abf9addb-267c-491f-a4df-c55dcb9b2668)
 
 
-<img width="2268" height="1623" alt="Screenshot 2025-08-03 075805" src="https://github.com/user-attachments/assets/2d3493c9-6f8f-41c2-b8a8-1108d471b30a" />
 
-<img width="2298" height="1783" alt="Screenshot 2025-08-03 075502" src="https://github.com/user-attachments/assets/c3a93f8f-cb5c-4d9f-aa00-77b849914f5c" />
 
 
 
