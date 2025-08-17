@@ -61,6 +61,7 @@ FATAL   EQU     0CDH    				; OPCODE FOR FATAL ERROR IS "CALL" TO PRERR
 ;-----------------------------------------------------------------------
 ;
 GORAM:	DI
+		LXI		SP,7F00H				; initial stack pointer
 		MVI		A,10000011B				; ppi ports  a and c high defined as output b and c low as input
 		OUT		PPICTRL	
 ;
@@ -6642,3 +6643,4 @@ BEGPR	EQU		$
 ;
 
         END
+
